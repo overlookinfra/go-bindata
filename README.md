@@ -8,13 +8,15 @@ It comes with a command line tool in the `go-bindata` sub directory.
 This tool offers a set of command line options, used to customize the
 output being generated.
 
+This is the Puppet fork of the library by jteeuwen.
+
+The original was deleted, hence this fork, but all work here is that of jteeuwen and contributers. Thanks to them.
 
 ### Installation
 
 To install the library and command line program, use the following:
 
-	go get -u github.com/jteeuwen/go-bindata/...
-
+	go get -u github.com/puppetlabs/go-bindata/...
 
 ### Usage
 
